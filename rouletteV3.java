@@ -1,3 +1,5 @@
+//java is stupid so this probably doesnt work
+
 import java.io.File;  // Import the File class
 
 public class rouletteV3 {
